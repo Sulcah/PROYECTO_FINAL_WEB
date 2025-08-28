@@ -1,0 +1,19 @@
+.wow{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.omg{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
